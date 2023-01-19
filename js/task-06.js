@@ -1,3 +1,4 @@
+// Почему не доплоиться на гитхаб?
 const input = document.getElementById("validation-input");
 input.addEventListener("blur", onInputBlur);
 
